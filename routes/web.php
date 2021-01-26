@@ -16,4 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
   return view('welcome');
 });
+Route::get('/product', 'ProductController@product');
 Route::POST('/order/{id}/process', 'ProcessOrderController@process_order');

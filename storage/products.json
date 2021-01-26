@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "sku": "ABC-123",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 2,
+    "sku": "ABC-124",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 3,
+    "sku": "ABC-125",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 4,
+    "sku": "ABC-126",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 5,
+    "sku": "ABC-127",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 6,
+    "sku": "ABC-128",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 7,
+    "sku": "ABC-129",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 8,
+    "sku": "ABC-1210",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 9,
+    "sku": "ABC-1211",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  },
+  {
+    "id": 10,
+    "sku": "ABC-1212",
+    "name": "Product-1",
+    "price": 1.00,
+    "create_at": "2020-11-16 22:22:59",
+    "updated_at": "2020-11-16 22:22:59"
+  }
+]
